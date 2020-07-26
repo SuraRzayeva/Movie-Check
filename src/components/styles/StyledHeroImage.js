@@ -29,11 +29,11 @@ export const StyledHeroImage = styled.div`
     bottom: 40px;
     left: 50%;
     transform: translateX(-50%);
-    margin-right: 20px;
+
     min-height: 100px;
     background: rgba(0, 0, 0, 0);
     color: #fff;
-    padding-left: 50px;
+
     text-align: center;
 
     .hero-text {
