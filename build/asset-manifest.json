@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.479a304c.chunk.js",
+    "main.js.map": "/static/js/main.479a304c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52009e65.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52009e65.js.map",
+    "static/js/2.48f4dcac.chunk.js": "/static/js/2.48f4dcac.chunk.js",
+    "static/js/2.48f4dcac.chunk.js.map": "/static/js/2.48f4dcac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ae2608ebd56712484ede13c3628218d8.js": "/precache-manifest.ae2608ebd56712484ede13c3628218d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.48f4dcac.chunk.js.LICENSE.txt": "/static/js/2.48f4dcac.chunk.js.LICENSE.txt",
+    "static/media/SRLogo.png": "/static/media/SRLogo.5db18709.png",
+    "static/media/no_image.jpg": "/static/media/no_image.31f5bb1d.jpg",
+    "static/media/tmdb_logo.svg": "/static/media/tmdb_logo.30cd724b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52009e65.js",
+    "static/js/2.48f4dcac.chunk.js",
+    "static/js/main.479a304c.chunk.js"
+  ]
+}

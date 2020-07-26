@@ -17,7 +17,7 @@ export const StyledHeroImage = styled.div`
   animation: animateHeroimage 1s;
 
   .heroimage-content {
-    max-width: 1280px;
+    max-width: 150px;
     padding: 20px;
     margin: 0 auto;
   }
@@ -27,12 +27,14 @@ export const StyledHeroImage = styled.div`
     max-width: 700px;
     position: absolute;
     bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
     margin-right: 20px;
     min-height: 100px;
     background: rgba(0, 0, 0, 0);
     color: #fff;
     padding-left: 50px;
-    font-family: 'Ralewayl', sans-serif;
+    text-align: center;
 
     .hero-text {
       h1 {
